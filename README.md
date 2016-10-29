@@ -1,0 +1,2 @@
+# safelink
+save your link
